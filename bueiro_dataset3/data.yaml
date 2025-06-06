@@ -1,0 +1,6 @@
+names:
+- bueiro
+- nbueiro
+nc: 2
+train: C:/TCC/bueiro_dataset3/images/train
+val: C:/TCC/bueiro_dataset3/images/val
